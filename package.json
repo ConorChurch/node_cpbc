@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ConorChurch/node_cpbc/issues"
   },
-  "homepage": "https://github.com/ConorChurch/node_cpbc#readme"
+  "homepage": "https://github.com/ConorChurch/node_cpbc#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
